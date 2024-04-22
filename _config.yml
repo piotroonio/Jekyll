@@ -96,9 +96,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      author_profile: false #true
+      read_time: false #true
+      comments: false #true
+      show_date: true
       share: true
       related: true
   # _pages
