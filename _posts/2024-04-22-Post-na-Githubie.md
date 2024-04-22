@@ -1,6 +1,6 @@
 ---
 title: "Post na Githubi-e"
-date: 2024-04-24T10:23:00-04:00
+date: 2024-04-24T08:23:00-04:00
 categories:
   - blog
 tags:
