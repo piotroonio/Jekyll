@@ -2,7 +2,7 @@
 title: "Post na Githubi-e"
 date: 2024-04-20T10:23:00-04:00
 categories:
-  - Blog
+  - blog
 tags:
   - Jekyll
   - update
